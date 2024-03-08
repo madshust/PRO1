@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dice_project/Dice_project.iml" filepath="$PROJECT_DIR$/Dice_project/Dice_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KontoSystem/KontoSystem.iml" filepath="$PROJECT_DIR$/KontoSystem/KontoSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L00 IntelliJ/L00 IntelliJ.iml" filepath="$PROJECT_DIR$/L00 IntelliJ/L00 IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01 Simple Programmer/L01 Simple Programmer.iml" filepath="$PROJECT_DIR$/L01 Simple Programmer/L01 Simple Programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02 - Variable og Scanner/L02 - Variable og Scanner.iml" filepath="$PROJECT_DIR$/L02 - Variable og Scanner/L02 - Variable og Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03 - Selektion/L03 - Selektion.iml" filepath="$PROJECT_DIR$/L03 - Selektion/L03 - Selektion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04 - Loops/L04 - Loops.iml" filepath="$PROJECT_DIR$/L04 - Loops/L04 - Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05 - ForLoops/L05 - ForLoops.iml" filepath="$PROJECT_DIR$/L05 - ForLoops/L05 - ForLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06 - Arrays/L06 - Arrays.iml" filepath="$PROJECT_DIR$/L06 - Arrays/L06 - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07 - Array Workshop/L07 - Array Workshop.iml" filepath="$PROJECT_DIR$/L07 - Array Workshop/L07 - Array Workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08 - Objekter/L08 - Objekter.iml" filepath="$PROJECT_DIR$/L08 - Objekter/L08 - Objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09 - Greenfoot/L09 - Greenfoot.iml" filepath="$PROJECT_DIR$/L09 - Greenfoot/L09 - Greenfoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjektPRO1.iml" filepath="$PROJECT_DIR$/ProjektPRO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU - Generalization/SU - Generalization.iml" filepath="$PROJECT_DIR$/SU - Generalization/SU - Generalization.iml" />
+    </modules>
+  </component>
+</project>
