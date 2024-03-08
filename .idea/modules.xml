@@ -15,7 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/L08 - Objekter/L08 - Objekter.iml" filepath="$PROJECT_DIR$/L08 - Objekter/L08 - Objekter.iml" />
       <module fileurl="file://$PROJECT_DIR$/L09 - Greenfoot/L09 - Greenfoot.iml" filepath="$PROJECT_DIR$/L09 - Greenfoot/L09 - Greenfoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjektPRO1.iml" filepath="$PROJECT_DIR$/ProjektPRO1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SU - Generalization/SU - Generalization.iml" filepath="$PROJECT_DIR$/SU - Generalization/SU - Generalization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU07 - Generalization/SU07 - Generalization.iml" filepath="$PROJECT_DIR$/SU07 - Generalization/SU07 - Generalization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU07 - Matador/SU07 - Matador.iml" filepath="$PROJECT_DIR$/SU07 - Matador/SU07 - Matador.iml" />
     </modules>
   </component>
 </project>
