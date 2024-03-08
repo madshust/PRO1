@@ -1,7 +1,5 @@
 package model;
 
-import model.Person;
-
 public class Student extends Person {
 
 	private double gradeAverage;
@@ -31,9 +29,9 @@ public class Student extends Person {
 	}
 
 	@Override
-	public void udskrivPerson() { // løsning på udskriv, hvor vi
+	public void print() { // løsning på udskriv, hvor vi
 		// udnytter, at der er en udskriv i superklassen
-		super.udskrivPerson(); // nødvendigt med super for ikke at kalde sig
+		super.print(); // nødvendigt med super for ikke at kalde sig
 		// selv.
 		System.out.println("Gennemsnit: " + gradeAverage);
 		System.out.println("model.Student identifikation: " + studentId);

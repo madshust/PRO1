@@ -57,10 +57,12 @@ public class Person
         this.qualification = qualification;
     }
 
-    public void udskrivPerson()
+    public void print()
     {
         System.out.println("Navn: " + name);
         System.out.println("Adresse: " + address);
         System.out.println("Kvalifikation: " + qualification);
     }
+
+
 }
