@@ -10,7 +10,7 @@ public class Test {
         System.out.println(n2.getFullName());
         System.out.println(n2.getInit());
         System.out.println(n2.getUsername());
-        System.out.println(n2.getCryptoInit(2));
+        System.out.println(n2.getCryptoInit(1000058));
 
     }
 }

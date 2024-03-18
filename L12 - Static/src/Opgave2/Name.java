@@ -75,13 +75,15 @@ public class Name {
     }
 
     public String getCryptoInit(int count){
-        String alphabet = "ABCDEFGHIJKLMNOPQRSTUVXYZABCDEFGHIJKLMNOPQRSTUVXYZ";
+        String alphabet = "ABCDEFGHIJKLMNOPQRSTUVXYZ";
         String init = getInit();
         String cryptoInit = "";
 
+
         for (int i = 0; i <= init.length()-1; i++){
             char ch = init.charAt(i);
-            cryptoInit += alphabet.charAt(alphabet.indexOf(ch)+count);
+            int index = (alphabet.indexOf(ch)+count)%alphabet.length();
+            cryptoInit += alphabet.charAt(index);
         }
 
         return cryptoInit;
