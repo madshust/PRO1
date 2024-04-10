@@ -13,7 +13,10 @@ public class Player {
 
     @Override
     public String toString() {
-        return "Player(" + name + ", age = " + age + ", score = " + score + ")";
+        return "Player(" + name +
+                ", age = " + age +
+                ", score = " + score
+                + ")";
     }
 
     public int getScore() {
